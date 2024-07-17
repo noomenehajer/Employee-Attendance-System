@@ -20,13 +20,16 @@ MAIN SCREEN:
 
 ![Capture d'écran 2024-07-17 190637](https://github.com/user-attachments/assets/150fd127-7156-4626-965e-3cd04f89f565)
 
+
 TAKING ATTENDANCE:
 
 ![Capture d'écran 2024-07-17 185640](https://github.com/user-attachments/assets/388d763b-e9b8-4142-8c3a-c8f94469eeb4)
 
+![Capture d'écran 2024-07-17 191011](https://github.com/user-attachments/assets/394f9c87-5f41-45ba-9d22-59df9387312e)
+
+
 ![Capture d'écran 2024-07-17 185610](https://github.com/user-attachments/assets/9fc0121d-225f-4137-b4c5-52855d2d6c8b)
 
-![Capture d'écran 2024-07-17 191011](https://github.com/user-attachments/assets/394f9c87-5f41-45ba-9d22-59df9387312e)
 
 CHANGE PASSWORD OPTION:
 
