@@ -22,12 +22,12 @@ MAIN SCREEN:
 
 TAKING ATTENDANCE:
 
-![Capture d'écran 2024-07-17 185513](https://github.com/user-attachments/assets/8c226f25-c8be-4a84-9d69-d7f417da63e2)
+![Capture d'écran 2024-07-17 185513](https://github.com/user-attachments/assets/66ed8aa5-a759-4757-b41f-013c56b815fa)
 
 ![Capture d'écran 2024-07-23 100514](https://github.com/user-attachments/assets/89a2d93a-8188-4503-b68b-fec7e15dfc87)
 
 
-![Capture d'écran 2024-07-17 185610](https://github.com/user-attachments/assets/9fc0121d-225f-4137-b4c5-52855d2d6c8b)
+![Capture d'écran 2024-07-17 185610](https://github.com/user-attachments/assets/2fd12e42-3e82-4980-9c6c-dd6c76273700)
 
 
 CHANGE PASSWORD OPTION:
