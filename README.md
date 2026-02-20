@@ -17,5 +17,6 @@ FEATURES:
 # SCREENSHOTS
 <img width="1920" height="943" alt="interface" src="https://github.com/user-attachments/assets/eac85513-747a-4bb6-aed7-2c2bb514a6a6" />
 
-<img width="1920" height="953" alt="inconnu" src="https://github.com/user-attachments/assets/663c578b-9568-4639-97f9-7e7acfbd2b0d" />
+<img width="1293" height="953" alt="inconnu" src="https://github.com/user-attachments/assets/0f236b6e-370e-4469-88ff-aef61919238b" />
 
+<img width="1293" height="948" alt="eya" src="https://github.com/user-attachments/assets/74befd3e-18a4-4ab8-acbf-cb26eee7b768" />
