@@ -19,4 +19,3 @@ FEATURES:
 
 <img width="1920" height="953" alt="inconnu" src="https://github.com/user-attachments/assets/663c578b-9568-4639-97f9-7e7acfbd2b0d" />
 
-<img width="1920" height="948" alt="eya" src="https://github.com/user-attachments/assets/6757630c-cc07-438f-a601-80f9fabb1b7a" />
