@@ -15,21 +15,8 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 # SCREENSHOTS
-MAIN SCREEN:
+<img width="1920" height="943" alt="interface" src="https://github.com/user-attachments/assets/eac85513-747a-4bb6-aed7-2c2bb514a6a6" />
 
-![Capture d'écran 2024-07-17 190637](https://github.com/user-attachments/assets/150fd127-7156-4626-965e-3cd04f89f565)
+<img width="1920" height="953" alt="inconnu" src="https://github.com/user-attachments/assets/663c578b-9568-4639-97f9-7e7acfbd2b0d" />
 
-
-TAKING ATTENDANCE:
-
-![Capture d'écran 2024-07-17 185513](https://github.com/user-attachments/assets/66ed8aa5-a759-4757-b41f-013c56b815fa)
-
-![Capture d'écran 2024-07-23 100514](https://github.com/user-attachments/assets/89a2d93a-8188-4503-b68b-fec7e15dfc87)
-
-
-![Capture d'écran 2024-07-17 185610](https://github.com/user-attachments/assets/2fd12e42-3e82-4980-9c6c-dd6c76273700)
-
-
-CHANGE PASSWORD OPTION:
-
-![Capture d'écran 2024-07-17 185726](https://github.com/user-attachments/assets/9e62dd5a-1cb5-4490-ad33-7c4d3aa058ee)
+<img width="1920" height="948" alt="eya" src="https://github.com/user-attachments/assets/6757630c-cc07-438f-a601-80f9fabb1b7a" />
