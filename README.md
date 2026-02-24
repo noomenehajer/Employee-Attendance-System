@@ -17,22 +17,22 @@ In this python project, I have made an attendance system which takes attendance 
 
 ## SCREENSHOTS
 
-## SCREENSHOTS
-
 <table>
   <tr>
-    <!-- Photo verticale à gauche -->
     <td align="center" valign="top">
-      <img width="300" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b5a0fc66-eb6d-4579-a06a-1a9da319b1a7" />
+      <img height="400" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b5a0fc66-eb6d-4579-a06a-1a9da319b1a7" />
     </td>
-    <!-- 3 photos horizontales à droite empilées -->
     <td align="center" valign="top">
-      <img width="550" alt="Screenshot 2" src="https://github.com/user-attachments/assets/360e975a-19f7-4b9a-8943-60997fc84985" />
-      <br/><br/>
-      <img width="550" alt="Screenshot 3" src="https://github.com/user-attachments/assets/0f236b6e-370e-4469-88ff-aef61919238b" />
-      <br/><br/>
-      <img width="550" alt="Screenshot 4" src="https://github.com/user-attachments/assets/74befd3e-18a4-4ab8-acbf-cb26eee7b768" />
+      <img height="400" alt="Screenshot 2" src="https://github.com/user-attachments/assets/360e975a-19f7-4b9a-8943-60997fc84985" />
     </td>
   </tr>
-</table>
+  <tr>
+    <td align="center" valign="top">
+      <img width="500" alt="Screenshot 3" src="https://github.com/user-attachments/assets/0f236b6e-370e-4469-88ff-aef61919238b" />
+    </td>
+    <td align="center" valign="top">
+      <img width="500" alt="Screenshot 4" src="https://github.com/user-attachments/assets/74befd3e-18a4-4ab8-acbf-cb26eee7b768" />
+    </td>
+  </tr>
+</table>>
 
