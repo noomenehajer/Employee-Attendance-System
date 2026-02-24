@@ -19,20 +19,23 @@ In this python project, I have made an attendance system which takes attendance 
 
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img height="400" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b5a0fc66-eb6d-4579-a06a-1a9da319b1a7" />
+    <td align="center" valign="middle">
+      <img width="280" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b5a0fc66-eb6d-4579-a06a-1a9da319b1a7" />
     </td>
-    <td align="center" valign="top">
-      <img height="400" alt="Screenshot 2" src="https://github.com/user-attachments/assets/360e975a-19f7-4b9a-8943-60997fc84985" />
+    <td align="center" valign="middle">
+      <img width="500" alt="Screenshot 2" src="https://github.com/user-attachments/assets/360e975a-19f7-4b9a-8943-60997fc84985" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img width="500" alt="Screenshot 3" src="https://github.com/user-attachments/assets/0f236b6e-370e-4469-88ff-aef61919238b" />
-    </td>
-    <td align="center" valign="top">
-      <img width="500" alt="Screenshot 4" src="https://github.com/user-attachments/assets/74befd3e-18a4-4ab8-acbf-cb26eee7b768" />
+    <td colspan="2" align="center">
+      <img width="800" alt="Screenshot 3" src="https://github.com/user-attachments/assets/0f236b6e-370e-4469-88ff-aef61919238b" />
     </td>
   </tr>
-</table>>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="800" alt="Screenshot 4" src="https://github.com/user-attachments/assets/74befd3e-18a4-4ab8-acbf-cb26eee7b768" />
+    </td>
+  </tr>
+</table>
+
 
